@@ -1,0 +1,14 @@
+F:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+F:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+F:\图书管理系统\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\图书管理系统\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+F:\图书管理系统\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
+I:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+I:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+I:\图书管理系统\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+I:\图书管理系统\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+I:\图书管理系统\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
+F:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.Comm.dll
+F:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.Comm.pdb
+I:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.Comm.dll
+I:\图书管理系统\LibrarySystem\DataAccess\bin\Debug\Library.Comm.pdb

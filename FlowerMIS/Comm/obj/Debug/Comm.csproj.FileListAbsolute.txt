@@ -1,0 +1,15 @@
+F:\期中测试(2018级)\FlowerMIS\Comm\bin\Debug\FlowerMIS.Comm.dll
+F:\期中测试(2018级)\FlowerMIS\Comm\bin\Debug\FlowerMIS.Comm.pdb
+F:\期中测试(2018级)\FlowerMIS\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+F:\期中测试(2018级)\FlowerMIS\Comm\obj\Debug\FlowerMIS.Comm.dll
+F:\期中测试(2018级)\FlowerMIS\Comm\obj\Debug\FlowerMIS.Comm.pdb
+F:\C17邱星明\FlowerMIS\Comm\bin\Debug\FlowerMIS.Comm.dll
+F:\C17邱星明\FlowerMIS\Comm\bin\Debug\FlowerMIS.Comm.pdb
+F:\C17邱星明\FlowerMIS\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+F:\C17邱星明\FlowerMIS\Comm\obj\Debug\FlowerMIS.Comm.dll
+F:\C17邱星明\FlowerMIS\Comm\obj\Debug\FlowerMIS.Comm.pdb
+I:\C17邱星明\FlowerMIS\Comm\bin\Debug\FlowerMIS.Comm.dll
+I:\C17邱星明\FlowerMIS\Comm\bin\Debug\FlowerMIS.Comm.pdb
+I:\C17邱星明\FlowerMIS\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+I:\C17邱星明\FlowerMIS\Comm\obj\Debug\FlowerMIS.Comm.dll
+I:\C17邱星明\FlowerMIS\Comm\obj\Debug\FlowerMIS.Comm.pdb

@@ -1,0 +1,10 @@
+F:\图书管理系统\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+F:\图书管理系统\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+F:\图书管理系统\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+F:\图书管理系统\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+F:\图书管理系统\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb
+I:\图书管理系统\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+I:\图书管理系统\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+I:\图书管理系统\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+I:\图书管理系统\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+I:\图书管理系统\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb

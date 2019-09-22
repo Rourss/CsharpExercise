@@ -1,0 +1,10 @@
+F:\图书管理系统\LibrarySystem\DataAccessTest\bin\Debug\DataAccessTest.dll.config
+F:\图书管理系统\LibrarySystem\DataAccessTest\bin\Debug\DataAccessTest.dll
+F:\图书管理系统\LibrarySystem\DataAccessTest\bin\Debug\DataAccessTest.pdb
+F:\图书管理系统\LibrarySystem\DataAccessTest\bin\Debug\Library.DataAccess.dll
+F:\图书管理系统\LibrarySystem\DataAccessTest\bin\Debug\Library.Comm.dll
+F:\图书管理系统\LibrarySystem\DataAccessTest\bin\Debug\Library.DataAccess.pdb
+F:\图书管理系统\LibrarySystem\DataAccessTest\bin\Debug\Library.Comm.pdb
+F:\图书管理系统\LibrarySystem\DataAccessTest\obj\Debug\DataAccessTest.csprojResolveAssemblyReference.cache
+F:\图书管理系统\LibrarySystem\DataAccessTest\obj\Debug\DataAccessTest.dll
+F:\图书管理系统\LibrarySystem\DataAccessTest\obj\Debug\DataAccessTest.pdb
