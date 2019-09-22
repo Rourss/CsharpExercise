@@ -1,0 +1,10 @@
+F:\进销存管理系统\JXCSystem\Model\bin\Debug\QiuXingMing.Model.dll
+F:\进销存管理系统\JXCSystem\Model\bin\Debug\QiuXingMing.Model.pdb
+F:\进销存管理系统\JXCSystem\Model\obj\Debug\QiuXingMing.Model.dll
+F:\进销存管理系统\JXCSystem\Model\obj\Debug\QiuXingMing.Model.pdb
+I:\进销存管理系统\JXCSystem\Model\bin\Debug\QiuXingMing.Model.dll
+I:\进销存管理系统\JXCSystem\Model\bin\Debug\QiuXingMing.Model.pdb
+I:\进销存管理系统\JXCSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+I:\进销存管理系统\JXCSystem\Model\obj\Debug\QiuXingMing.Model.dll
+I:\进销存管理系统\JXCSystem\Model\obj\Debug\QiuXingMing.Model.pdb
+F:\进销存管理系统\JXCSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

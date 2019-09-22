@@ -1,0 +1,10 @@
+F:\进销存管理系统\JXCSystem\DBUtility\bin\Debug\QiuXingMing.DBUtility.dll
+F:\进销存管理系统\JXCSystem\DBUtility\bin\Debug\QiuXingMing.DBUtility.pdb
+F:\进销存管理系统\JXCSystem\DBUtility\obj\Debug\QiuXingMing.DBUtility.dll
+F:\进销存管理系统\JXCSystem\DBUtility\obj\Debug\QiuXingMing.DBUtility.pdb
+I:\进销存管理系统\JXCSystem\DBUtility\bin\Debug\QiuXingMing.DBUtility.dll
+I:\进销存管理系统\JXCSystem\DBUtility\bin\Debug\QiuXingMing.DBUtility.pdb
+I:\进销存管理系统\JXCSystem\DBUtility\obj\Debug\QiuXingMing.DBUtility.dll
+I:\进销存管理系统\JXCSystem\DBUtility\obj\Debug\QiuXingMing.DBUtility.pdb
+F:\进销存管理系统\JXCSystem\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+I:\进销存管理系统\JXCSystem\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
